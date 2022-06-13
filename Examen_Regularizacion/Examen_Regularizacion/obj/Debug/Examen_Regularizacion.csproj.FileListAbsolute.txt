@@ -1,0 +1,7 @@
+C:\Users\Laboratorio\source\repos\Examen_Regularizacion\Examen_Regularizacion\bin\Debug\Examen_Regularizacion.exe.config
+C:\Users\Laboratorio\source\repos\Examen_Regularizacion\Examen_Regularizacion\bin\Debug\Examen_Regularizacion.exe
+C:\Users\Laboratorio\source\repos\Examen_Regularizacion\Examen_Regularizacion\bin\Debug\Examen_Regularizacion.pdb
+C:\Users\Laboratorio\source\repos\Examen_Regularizacion\Examen_Regularizacion\obj\Debug\Examen_Regularizacion.csproj.AssemblyReference.cache
+C:\Users\Laboratorio\source\repos\Examen_Regularizacion\Examen_Regularizacion\obj\Debug\Examen_Regularizacion.csproj.CoreCompileInputs.cache
+C:\Users\Laboratorio\source\repos\Examen_Regularizacion\Examen_Regularizacion\obj\Debug\Examen_Regularizacion.exe
+C:\Users\Laboratorio\source\repos\Examen_Regularizacion\Examen_Regularizacion\obj\Debug\Examen_Regularizacion.pdb
